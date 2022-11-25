@@ -1,7 +1,6 @@
 # Zebra Printer PDF Direct Demo Guide and Materials
- PDF Direct デモガイドとサンプル
-
-工事中
+ PDF Direct サンプルとTips  
+ 
 
 
 # 高品質な文字を印刷する方法  
