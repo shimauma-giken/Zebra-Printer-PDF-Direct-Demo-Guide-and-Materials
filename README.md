@@ -1,5 +1,7 @@
 # Zebra Printer PDF Direct Demo Guide and Materials
- PDF Direct サンプルとTips  
+ PDF Direct サンプルと設定ガイド  
+ 
+ 設定ガイド > EnablingPDFDirect-Rev5.pdf
  
 
 
